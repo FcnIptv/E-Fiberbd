@@ -197,5 +197,5 @@ http://103.149.130.122:8089/97/index.m3u8
 http://103.149.130.122:8089/98/index.m3u8
 #EXTINF:-1 group-title="fcn",HD: 99
 http://103.149.130.122:8089/99/index.m3u8
-#EXTINF:-1 group-title="fcn",HD: 0
-http://103.149.130.122:8089/0/index.m3u8
+#EXTINF:-1 group-title="fcn",HD: 100
+http://103.149.130.122:8089/100/index.m3u8
